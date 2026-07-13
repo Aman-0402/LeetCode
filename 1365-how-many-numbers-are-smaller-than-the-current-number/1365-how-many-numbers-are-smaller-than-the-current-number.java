@@ -2,20 +2,22 @@ import java.util.*;
 
 class Solution {
     public int[] smallerNumbersThanCurrent(int[] nums) {
+        int n = nums.length;
+        int[] count = new int[101]; // values are 0..100
 
-        int[] sorted = nums.clone();
-        Arrays.sort(sorted);
-
-        HashMap<Integer, Integer> map = new HashMap<>();
-
-        for (int i = 0; i < sorted.length; i++) {
-            map.putIfAbsent(sorted[i], i);
+        // count occurrences of each value
+        for (int num : nums) {
+            count[num]++;
         }
 
-        int[] ans = new int[nums.length];
+        // prefix sum: count[i] becomes "how many numbers are <= i"
+        for (int i = 1; i <= 100; i++) {
+            count[i] += count[i - 1];
+        }
 
-        for (int i = 0; i < nums.length; i++) {
-            ans[i] = map.get(nums[i]);
+        int[] ans = new int[n];
+        for (int i = 0; i < n; i++) {
+            ans[i] = nums[i] == 0 ? 0 : count[nums[i] - 1];
         }
 
         return ans;
