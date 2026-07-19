@@ -1,6 +1,6 @@
 # Roadmap
 
-<table>
+<table border="1" cellspacing="0" cellpadding="6">
 <thead>
 <tr>
 <th align="right">S.No</th>
