@@ -4,7 +4,7 @@ Use these rules whenever the instruction says "update".
 
 ## What to do on update
 1. Read the whole repository root and inspect every top-level problem directory that matches the LeetCode pattern, such as `0001-two-sum`.
-2. Detect new problem folders that are not already listed in [Roadmap.sh](Roadmap.sh) or summarized in [Stats.md](Stats.md).
+2. Detect new problem folders that are not already listed in [Roadmap.md](Roadmap.md) or summarized in [Stats.md](Stats.md).
 3. For each new folder, inspect the available solution files to determine the supported languages:
    - `.cpp` → C++
    - `.java` → Java

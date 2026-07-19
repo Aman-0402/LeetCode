@@ -1,7 +1,5 @@
-#!/usr/bin/env bash
-set -euo pipefail
+# Roadmap
 
-cat <<'EOF'
 <table>
 <thead>
 <tr>
@@ -54,4 +52,3 @@ cat <<'EOF'
 <tr><td align="right">37</td><td align="right">#242</td><td>Valid Anagram</td><td>Hash Table</td><td align="right">10/10</td><td>C++ / Java / Python3</td><td><a href="./0242-valid-anagram/0242-valid-anagram.cpp">0242-valid-anagram.cpp</a></td></tr>
 </tbody>
 </table>
-EOF
