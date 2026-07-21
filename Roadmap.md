@@ -123,5 +123,20 @@
 <tr><td align="right" rowspan="3">37</td><td align="right" rowspan="3">#242</td><td rowspan="3">Valid Anagram</td><td rowspan="3">Hash Table</td><td align="right" rowspan="3">10/10</td><td align="center">C++</td><td><a href="./0242-valid-anagram/0242-valid-anagram.cpp">0242-valid-anagram.cpp</a></td></tr>
 <tr><td align="center">Java</td><td><a href="./0242-valid-anagram/0242-valid-anagram.java">0242-valid-anagram.java</a></td></tr>
 <tr><td align="center">Python3</td><td><a href="./0242-valid-anagram/0242-valid-anagram.py">0242-valid-anagram.py</a></td></tr>
+<tr><td align="right" rowspan="3">38</td><td align="right" rowspan="3">#49</td><td rowspan="3">Group Anagrams</td><td rowspan="3">Hash Table</td><td align="right" rowspan="3">9/10</td><td align="center">C++</td><td><a href="./0049-group-anagrams/0049-group-anagrams.cpp">0049-group-anagrams.cpp</a></td></tr>
+<tr><td align="center">Java</td><td><a href="./0049-group-anagrams/0049-group-anagrams.java">0049-group-anagrams.java</a></td></tr>
+<tr><td align="center">Python3</td><td><a href="./0049-group-anagrams/0049-group-anagrams.py">0049-group-anagrams.py</a></td></tr>
+<tr><td align="right" rowspan="3">39</td><td align="right" rowspan="3">#128</td><td rowspan="3">Longest Consecutive Sequence</td><td rowspan="3">Hash Table</td><td align="right" rowspan="3">9/10</td><td align="center">C++</td><td><a href="./0128-longest-consecutive-sequence/0128-longest-consecutive-sequence.cpp">0128-longest-consecutive-sequence.cpp</a></td></tr>
+<tr><td align="center">Java</td><td><a href="./0128-longest-consecutive-sequence/0128-longest-consecutive-sequence.java">0128-longest-consecutive-sequence.java</a></td></tr>
+<tr><td align="center">Python3</td><td><a href="./0128-longest-consecutive-sequence/0128-longest-consecutive-sequence.py">0128-longest-consecutive-sequence.py</a></td></tr>
+<tr><td align="right" rowspan="3">40</td><td align="right" rowspan="3">#202</td><td rowspan="3">Happy Number</td><td rowspan="3">Hash Table</td><td align="right" rowspan="3">6/10</td><td align="center">C++</td><td><a href="./0202-happy-number/0202-happy-number.cpp">0202-happy-number.cpp</a></td></tr>
+<tr><td align="center">Java</td><td><a href="./0202-happy-number/0202-happy-number.java">0202-happy-number.java</a></td></tr>
+<tr><td align="center">Python3</td><td><a href="./0202-happy-number/0202-happy-number.py">0202-happy-number.py</a></td></tr>
+<tr><td align="right" rowspan="3">41</td><td align="right" rowspan="3">#205</td><td rowspan="3">Isomorphic Strings</td><td rowspan="3">Hash Table</td><td align="right" rowspan="3">7/10</td><td align="center">C++</td><td><a href="./0205-isomorphic-strings/0205-isomorphic-strings.cpp">0205-isomorphic-strings.cpp</a></td></tr>
+<tr><td align="center">Java</td><td><a href="./0205-isomorphic-strings/0205-isomorphic-strings.java">0205-isomorphic-strings.java</a></td></tr>
+<tr><td align="center">Python3</td><td><a href="./0205-isomorphic-strings/0205-isomorphic-strings.py">0205-isomorphic-strings.py</a></td></tr>
+<tr><td align="right" rowspan="3">42</td><td align="right" rowspan="3">#290</td><td rowspan="3">Word Pattern</td><td rowspan="3">Hash Table</td><td align="right" rowspan="3">6/10</td><td align="center">C++</td><td><a href="./0290-word-pattern/0290-word-pattern.cpp">0290-word-pattern.cpp</a></td></tr>
+<tr><td align="center">Java</td><td><a href="./0290-word-pattern/0290-word-pattern.java">0290-word-pattern.java</a></td></tr>
+<tr><td align="center">Python3</td><td><a href="./0290-word-pattern/0290-word-pattern.py">0290-word-pattern.py</a></td></tr>
 </tbody>
 </table>

@@ -5,5 +5,5 @@
 | Arrays | 19 |
 | Two Pointers | 6 |
 | Sliding Window | 10 |
-| Hashing | 2 |
-| **Total Problems Solved** | **37** |
+| Hashing | 7 |
+| **Total Problems Solved** | **42** |
