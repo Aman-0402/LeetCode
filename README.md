@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/Aman-0402/LeetCode/tree/master/0049-group-anagrams) |
 | [0076-minimum-window-substring](https://github.com/Aman-0402/LeetCode/tree/master/0076-minimum-window-substring) |
 | [0128-longest-consecutive-sequence](https://github.com/Aman-0402/LeetCode/tree/master/0128-longest-consecutive-sequence) |
+| [0202-happy-number](https://github.com/Aman-0402/LeetCode/tree/master/0202-happy-number) |
 | [0217-contains-duplicate](https://github.com/Aman-0402/LeetCode/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/Aman-0402/LeetCode/tree/master/0219-contains-duplicate-ii) |
 | [0242-valid-anagram](https://github.com/Aman-0402/LeetCode/tree/master/0242-valid-anagram) |
@@ -84,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0202-happy-number](https://github.com/Aman-0402/LeetCode/tree/master/0202-happy-number) |
 | [0412-fizz-buzz](https://github.com/Aman-0402/LeetCode/tree/master/0412-fizz-buzz) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Aman-0402/LeetCode/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1512-number-of-good-pairs](https://github.com/Aman-0402/LeetCode/tree/master/1512-number-of-good-pairs) |
@@ -113,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/Aman-0402/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0088-merge-sorted-array](https://github.com/Aman-0402/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/Aman-0402/LeetCode/tree/master/0125-valid-palindrome) |
+| [0202-happy-number](https://github.com/Aman-0402/LeetCode/tree/master/0202-happy-number) |
 | [0283-move-zeroes](https://github.com/Aman-0402/LeetCode/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/Aman-0402/LeetCode/tree/master/0344-reverse-string) |
 | [0392-is-subsequence](https://github.com/Aman-0402/LeetCode/tree/master/0392-is-subsequence) |
