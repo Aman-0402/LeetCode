@@ -16,7 +16,8 @@
 <tr><td align="right" rowspan="3">1</td><td align="right" rowspan="3">#1</td><td rowspan="3">Two Sum</td><td rowspan="3">Hash Table</td><td align="right" rowspan="3">10/10</td><td align="center">C++</td><td><a href="./0001-two-sum/0001-two-sum.cpp">0001-two-sum.cpp</a></td></tr>
 <tr><td align="center">Java</td><td><a href="./0001-two-sum/0001-two-sum.java">0001-two-sum.java</a></td></tr>
 <tr><td align="center">Python3</td><td><a href="./0001-two-sum/0001-two-sum.py">0001-two-sum.py</a></td></tr>
-<tr><td align="right" rowspan="2">2</td><td align="right" rowspan="2">#1480</td><td rowspan="2">Running Sum of 1D Array</td><td rowspan="2">Prefix Sum</td><td align="right" rowspan="2">4/10</td><td align="center">C++</td><td><a href="./1480-running-sum-of-1d-array/1480-running-sum-of-1d-array.cpp">1480-running-sum-of-1d-array.cpp</a></td></tr>
+<tr><td align="right" rowspan="3">2</td><td align="right" rowspan="3">#1480</td><td rowspan="3">Running Sum of 1D Array</td><td rowspan="3">Prefix Sum</td><td align="right" rowspan="3">4/10</td><td align="center">C++</td><td><a href="./1480-running-sum-of-1d-array/1480-running-sum-of-1d-array.cpp">1480-running-sum-of-1d-array.cpp</a></td></tr>
+<tr><td align="center">Java</td><td><a href="./1480-running-sum-of-1d-array/1480-running-sum-of-1d-array.java">1480-running-sum-of-1d-array.java</a></td></tr>
 <tr><td align="center">Python3</td><td><a href="./1480-running-sum-of-1d-array/1480-running-sum-of-1d-array.py">1480-running-sum-of-1d-array.py</a></td></tr>
 <tr><td align="right" rowspan="3">3</td><td align="right" rowspan="3">#724</td><td rowspan="3">Find Pivot Index</td><td rowspan="3">Prefix Sum</td><td align="right" rowspan="3">6/10</td><td align="center">C++</td><td><a href="./0724-find-pivot-index/0724-find-pivot-index.cpp">0724-find-pivot-index.cpp</a></td></tr>
 <tr><td align="center">Java</td><td><a href="./0724-find-pivot-index/0724-find-pivot-index.java">0724-find-pivot-index.java</a></td></tr>
