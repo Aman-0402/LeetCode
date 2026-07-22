@@ -23,7 +23,9 @@ Use these rules whenever the instruction says "update".
 8. Update [Stats.md](Stats.md) so the category totals and the total-solved count reflect the current repository inventory after additions.
 9. If the repository already contains the problem, do not duplicate it in the roadmap.
 10. If a problem folder has only a subset of the supported languages, reflect that accurately (fewer rowspan rows, fewer language rows) instead of inventing missing ones.
-11. **Never modify [README.md](README.md) as part of an update.** It is maintained separately (auto-generated topic index) and is out of scope.
+11. A folder that has **only a `.cpp` file** (no Java, no Python3) is a **contest problem**. Its folder number is often just a sequential ID assigned by LeetHub and does not match the real LeetCode problem number — always read the problem's `README.md` title (e.g. `<h2><a href="...">4358. Count Dominant Nodes in a Binary Tree</a></h2>`) and use that **real LeetCode number** in the Problem No. column instead of the folder number. Still link the File Name to the actual folder path. Categorize it from its topic the same way as any other problem (Tree, Greedy, Union-Find, etc. as appropriate to the problem).
+12. **Never modify [README.md](README.md) as part of an update.** It is maintained separately (auto-generated topic index) and is out of scope.
+13. After all files are updated, stage and commit the changes and push to the remote, **without adding a `Co-Authored-By` trailer or any co-author line**. Use a plain, descriptive commit message.
 
 ## Expected behavior
 - The update should be based on the actual contents of the workspace, not on memory.
@@ -31,8 +33,11 @@ Use these rules whenever the instruction says "update".
 - New problems should be added as rows in the roadmap table, in solve order.
 - Summary statistics should be updated to match the current number of solved problems.
 - README.md is never touched by an update.
+- Contest problems (cpp-only folders) get their real LeetCode number in Roadmap.md, not their folder number.
+- Every update ends with a commit and push, with no co-author trailer.
 
 ## Output format
 - Keep the roadmap as an HTML table (rowspan-merged, one row per language) inside [Roadmap.md](Roadmap.md).
 - Keep the summary statistics as a Markdown table inside [Stats.md](Stats.md).
 - Prefer relative links to the individual solution files (not just the folder) so the roadmap remains portable.
+- Commit message should be plain text with no `Co-Authored-By` line.
