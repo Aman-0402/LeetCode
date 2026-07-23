@@ -145,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Aman-0402/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0392-is-subsequence](https://github.com/Aman-0402/LeetCode/tree/master/0392-is-subsequence) |
+| [0629-k-inverse-pairs-array](https://github.com/Aman-0402/LeetCode/tree/master/0629-k-inverse-pairs-array) |
 ## Greedy
 |  |
 | ------- |
