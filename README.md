@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/Aman-0402/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [0643-maximum-average-subarray-i](https://github.com/Aman-0402/LeetCode/tree/master/0643-maximum-average-subarray-i) |
 | [0724-find-pivot-index](https://github.com/Aman-0402/LeetCode/tree/master/0724-find-pivot-index) |
+| [0973-k-closest-points-to-origin](https://github.com/Aman-0402/LeetCode/tree/master/0973-k-closest-points-to-origin) |
 | [0977-squares-of-a-sorted-array](https://github.com/Aman-0402/LeetCode/tree/master/0977-squares-of-a-sorted-array) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Aman-0402/LeetCode/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Aman-0402/LeetCode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
@@ -102,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0202-happy-number](https://github.com/Aman-0402/LeetCode/tree/master/0202-happy-number) |
 | [0412-fizz-buzz](https://github.com/Aman-0402/LeetCode/tree/master/0412-fizz-buzz) |
+| [0973-k-closest-points-to-origin](https://github.com/Aman-0402/LeetCode/tree/master/0973-k-closest-points-to-origin) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Aman-0402/LeetCode/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1512-number-of-good-pairs](https://github.com/Aman-0402/LeetCode/tree/master/1512-number-of-good-pairs) |
 ## Counting
@@ -119,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/Aman-0402/LeetCode/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/Aman-0402/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/Aman-0402/LeetCode/tree/master/0349-intersection-of-two-arrays) |
+| [0973-k-closest-points-to-origin](https://github.com/Aman-0402/LeetCode/tree/master/0973-k-closest-points-to-origin) |
 | [0977-squares-of-a-sorted-array](https://github.com/Aman-0402/LeetCode/tree/master/0977-squares-of-a-sorted-array) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Aman-0402/LeetCode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 ## Counting Sort
@@ -189,6 +192,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/Aman-0402/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0239-sliding-window-maximum](https://github.com/Aman-0402/LeetCode/tree/master/0239-sliding-window-maximum) |
 | [0347-top-k-frequent-elements](https://github.com/Aman-0402/LeetCode/tree/master/0347-top-k-frequent-elements) |
+| [0973-k-closest-points-to-origin](https://github.com/Aman-0402/LeetCode/tree/master/0973-k-closest-points-to-origin) |
 ## Monotonic Queue
 |  |
 | ------- |
@@ -202,6 +206,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/Aman-0402/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/Aman-0402/LeetCode/tree/master/0347-top-k-frequent-elements) |
+| [0973-k-closest-points-to-origin](https://github.com/Aman-0402/LeetCode/tree/master/0973-k-closest-points-to-origin) |
 ## Bucket Sort
 |  |
 | ------- |
@@ -211,4 +216,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/Aman-0402/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/Aman-0402/LeetCode/tree/master/0347-top-k-frequent-elements) |
+| [0973-k-closest-points-to-origin](https://github.com/Aman-0402/LeetCode/tree/master/0973-k-closest-points-to-origin) |
+## Geometry
+|  |
+| ------- |
+| [0973-k-closest-points-to-origin](https://github.com/Aman-0402/LeetCode/tree/master/0973-k-closest-points-to-origin) |
 <!---LeetCode Topics End-->
