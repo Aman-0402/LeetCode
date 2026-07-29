@@ -67,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0621-task-scheduler](https://github.com/Aman-0402/LeetCode/tree/master/0621-task-scheduler) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Aman-0402/LeetCode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1512-number-of-good-pairs](https://github.com/Aman-0402/LeetCode/tree/master/1512-number-of-good-pairs) |
+| [3518-smallest-palindromic-rearrangement-ii](https://github.com/Aman-0402/LeetCode/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -101,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Aman-0402/LeetCode/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/Aman-0402/LeetCode/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Aman-0402/LeetCode/tree/master/3517-smallest-palindromic-rearrangement-i) |
+| [3518-smallest-palindromic-rearrangement-ii](https://github.com/Aman-0402/LeetCode/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 ## Matrix
 |  |
 | ------- |
@@ -117,12 +119,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0973-k-closest-points-to-origin](https://github.com/Aman-0402/LeetCode/tree/master/0973-k-closest-points-to-origin) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Aman-0402/LeetCode/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1512-number-of-good-pairs](https://github.com/Aman-0402/LeetCode/tree/master/1512-number-of-good-pairs) |
+| [3518-smallest-palindromic-rearrangement-ii](https://github.com/Aman-0402/LeetCode/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 ## Counting
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/Aman-0402/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0621-task-scheduler](https://github.com/Aman-0402/LeetCode/tree/master/0621-task-scheduler) |
 | [1512-number-of-good-pairs](https://github.com/Aman-0402/LeetCode/tree/master/1512-number-of-good-pairs) |
+| [3518-smallest-palindromic-rearrangement-ii](https://github.com/Aman-0402/LeetCode/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 ## Sorting
 |  |
 | ------- |
@@ -288,4 +292,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Aman-0402/LeetCode/tree/master/2812-find-the-safest-path-in-a-grid) |
+## Combinatorics
+|  |
+| ------- |
+| [3518-smallest-palindromic-rearrangement-ii](https://github.com/Aman-0402/LeetCode/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 <!---LeetCode Topics End-->
