@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/Aman-0402/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Aman-0402/LeetCode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0485-max-consecutive-ones](https://github.com/Aman-0402/LeetCode/tree/master/0485-max-consecutive-ones) |
+| [0486-predict-the-winner](https://github.com/Aman-0402/LeetCode/tree/master/0486-predict-the-winner) |
 | [0560-subarray-sum-equals-k](https://github.com/Aman-0402/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [0621-task-scheduler](https://github.com/Aman-0402/LeetCode/tree/master/0621-task-scheduler) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Aman-0402/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
@@ -118,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0202-happy-number](https://github.com/Aman-0402/LeetCode/tree/master/0202-happy-number) |
 | [0412-fizz-buzz](https://github.com/Aman-0402/LeetCode/tree/master/0412-fizz-buzz) |
+| [0486-predict-the-winner](https://github.com/Aman-0402/LeetCode/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Aman-0402/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0973-k-closest-points-to-origin](https://github.com/Aman-0402/LeetCode/tree/master/0973-k-closest-points-to-origin) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Aman-0402/LeetCode/tree/master/1295-find-numbers-with-even-number-of-digits) |
@@ -180,6 +182,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Aman-0402/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0392-is-subsequence](https://github.com/Aman-0402/LeetCode/tree/master/0392-is-subsequence) |
+| [0486-predict-the-winner](https://github.com/Aman-0402/LeetCode/tree/master/0486-predict-the-winner) |
 | [0629-k-inverse-pairs-array](https://github.com/Aman-0402/LeetCode/tree/master/0629-k-inverse-pairs-array) |
 ## Greedy
 |  |
@@ -304,4 +307,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/Aman-0402/LeetCode/tree/master/3518-smallest-palindromic-rearrangement-ii) |
+## Recursion
+|  |
+| ------- |
+| [0486-predict-the-winner](https://github.com/Aman-0402/LeetCode/tree/master/0486-predict-the-winner) |
+## Game Theory
+|  |
+| ------- |
+| [0486-predict-the-winner](https://github.com/Aman-0402/LeetCode/tree/master/0486-predict-the-winner) |
 <!---LeetCode Topics End-->
