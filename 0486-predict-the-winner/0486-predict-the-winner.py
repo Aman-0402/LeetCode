@@ -1,7 +1,5 @@
-from typing import List
-
-class Solution:
-    def predictTheWinner(self, nums: List[int]) -> bool:
+class Solution(object):
+    def predictTheWinner(self, nums):
 
         n = len(nums)
 
