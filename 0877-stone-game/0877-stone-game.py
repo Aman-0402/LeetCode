@@ -1,5 +1,3 @@
-from typing import List
-
-class Solution:
-    def stoneGame(self, piles: List[int]) -> bool:
+class Solution(object):
+    def stoneGame(self, piles):
         return True
