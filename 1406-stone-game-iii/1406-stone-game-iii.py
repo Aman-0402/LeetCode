@@ -1,7 +1,5 @@
-from typing import List
-
-class Solution:
-    def stoneGameIII(self, stoneValue: List[int]) -> str:
+class Solution(object):
+    def stoneGameIII(self, stoneValue):
 
         n = len(stoneValue)
 
