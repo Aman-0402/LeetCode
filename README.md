@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1046-last-stone-weight](https://github.com/Aman-0402/LeetCode/tree/master/1046-last-stone-weight) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Aman-0402/LeetCode/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Aman-0402/LeetCode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [1406-stone-game-iii](https://github.com/Aman-0402/LeetCode/tree/master/1406-stone-game-iii) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/Aman-0402/LeetCode/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Aman-0402/LeetCode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1470-shuffle-the-array](https://github.com/Aman-0402/LeetCode/tree/master/1470-shuffle-the-array) |
@@ -125,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0877-stone-game](https://github.com/Aman-0402/LeetCode/tree/master/0877-stone-game) |
 | [0973-k-closest-points-to-origin](https://github.com/Aman-0402/LeetCode/tree/master/0973-k-closest-points-to-origin) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Aman-0402/LeetCode/tree/master/1295-find-numbers-with-even-number-of-digits) |
+| [1406-stone-game-iii](https://github.com/Aman-0402/LeetCode/tree/master/1406-stone-game-iii) |
 | [1512-number-of-good-pairs](https://github.com/Aman-0402/LeetCode/tree/master/1512-number-of-good-pairs) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Aman-0402/LeetCode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/Aman-0402/LeetCode/tree/master/3518-smallest-palindromic-rearrangement-ii) |
@@ -187,6 +189,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0486-predict-the-winner](https://github.com/Aman-0402/LeetCode/tree/master/0486-predict-the-winner) |
 | [0629-k-inverse-pairs-array](https://github.com/Aman-0402/LeetCode/tree/master/0629-k-inverse-pairs-array) |
 | [0877-stone-game](https://github.com/Aman-0402/LeetCode/tree/master/0877-stone-game) |
+| [1406-stone-game-iii](https://github.com/Aman-0402/LeetCode/tree/master/1406-stone-game-iii) |
 ## Greedy
 |  |
 | ------- |
@@ -319,4 +322,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0486-predict-the-winner](https://github.com/Aman-0402/LeetCode/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/Aman-0402/LeetCode/tree/master/0877-stone-game) |
+| [1406-stone-game-iii](https://github.com/Aman-0402/LeetCode/tree/master/1406-stone-game-iii) |
 <!---LeetCode Topics End-->
