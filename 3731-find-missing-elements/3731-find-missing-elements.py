@@ -1,7 +1,6 @@
-from typing import List
+class Solution(object):
+    def findMissingElements(self, nums):
 
-class Solution:
-    def findMissingElements(self, nums: List[int]) -> List[int]:
         mn = min(nums)
         mx = max(nums)
 
