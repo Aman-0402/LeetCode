@@ -1,7 +1,5 @@
-from typing import List
-
-class Solution:
-    def remainingMethods(self, n: int, k: int, invocations: List[List[int]]) -> List[int]:
+class Solution(object):
+    def remainingMethods(self, n, k, invocations):
 
         graph = [[] for _ in range(n)]
 
@@ -20,7 +18,13 @@ class Solution:
         dfs(k)
 
         for u, v in invocations:
-            if not vis[u] and vis[v]:
+            if (not vis[u]) and vis[v]:
                 return list(range(n))
 
-        return [i for i in range(n) if not vis[i]]
+        ans = []
+
+        for i in range(n):
+            if not vis[i]:
+                ans.append(i)
+
+        return ans
