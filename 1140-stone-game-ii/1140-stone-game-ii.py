@@ -23,11 +23,7 @@ class Solution:
 
             for x in range(1, 2 * M + 1):
                 opponent = solve(i + x, max(M, x))
-
-                best = max(
-                    best,
-                    suffix[i] - opponent
-                )
+                best = max(best, suffix[i] - opponent)
 
             dp[i][M] = best
             return best
