@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0973-k-closest-points-to-origin](https://github.com/Aman-0402/LeetCode/tree/master/0973-k-closest-points-to-origin) |
 | [0977-squares-of-a-sorted-array](https://github.com/Aman-0402/LeetCode/tree/master/0977-squares-of-a-sorted-array) |
 | [1046-last-stone-weight](https://github.com/Aman-0402/LeetCode/tree/master/1046-last-stone-weight) |
+| [1140-stone-game-ii](https://github.com/Aman-0402/LeetCode/tree/master/1140-stone-game-ii) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Aman-0402/LeetCode/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Aman-0402/LeetCode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1406-stone-game-iii](https://github.com/Aman-0402/LeetCode/tree/master/1406-stone-game-iii) |
@@ -80,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/Aman-0402/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/Aman-0402/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/Aman-0402/LeetCode/tree/master/0724-find-pivot-index) |
+| [1140-stone-game-ii](https://github.com/Aman-0402/LeetCode/tree/master/1140-stone-game-ii) |
 | [1480-running-sum-of-1d-array](https://github.com/Aman-0402/LeetCode/tree/master/1480-running-sum-of-1d-array) |
 ## Simulation
 |  |
@@ -129,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/Aman-0402/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0877-stone-game](https://github.com/Aman-0402/LeetCode/tree/master/0877-stone-game) |
 | [0973-k-closest-points-to-origin](https://github.com/Aman-0402/LeetCode/tree/master/0973-k-closest-points-to-origin) |
+| [1140-stone-game-ii](https://github.com/Aman-0402/LeetCode/tree/master/1140-stone-game-ii) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Aman-0402/LeetCode/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1406-stone-game-iii](https://github.com/Aman-0402/LeetCode/tree/master/1406-stone-game-iii) |
 | [1512-number-of-good-pairs](https://github.com/Aman-0402/LeetCode/tree/master/1512-number-of-good-pairs) |
@@ -197,6 +200,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0486-predict-the-winner](https://github.com/Aman-0402/LeetCode/tree/master/0486-predict-the-winner) |
 | [0629-k-inverse-pairs-array](https://github.com/Aman-0402/LeetCode/tree/master/0629-k-inverse-pairs-array) |
 | [0877-stone-game](https://github.com/Aman-0402/LeetCode/tree/master/0877-stone-game) |
+| [1140-stone-game-ii](https://github.com/Aman-0402/LeetCode/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/Aman-0402/LeetCode/tree/master/1406-stone-game-iii) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Aman-0402/LeetCode/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 ## Greedy
@@ -334,14 +338,17 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0486-predict-the-winner](https://github.com/Aman-0402/LeetCode/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/Aman-0402/LeetCode/tree/master/0877-stone-game) |
+| [1140-stone-game-ii](https://github.com/Aman-0402/LeetCode/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/Aman-0402/LeetCode/tree/master/1406-stone-game-iii) |
 ## Minimax
 |  |
 | ------- |
+| [1140-stone-game-ii](https://github.com/Aman-0402/LeetCode/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/Aman-0402/LeetCode/tree/master/1406-stone-game-iii) |
 ## Zero-Sum Game
 |  |
 | ------- |
+| [1140-stone-game-ii](https://github.com/Aman-0402/LeetCode/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/Aman-0402/LeetCode/tree/master/1406-stone-game-iii) |
 ## Depth-First Search
 |  |
