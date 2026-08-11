@@ -109,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0438-find-all-anagrams-in-a-string](https://github.com/Aman-0402/LeetCode/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0567-permutation-in-string](https://github.com/Aman-0402/LeetCode/tree/master/0567-permutation-in-string) |
 | [0680-valid-palindrome-ii](https://github.com/Aman-0402/LeetCode/tree/master/0680-valid-palindrome-ii) |
+| [1143-longest-common-subsequence](https://github.com/Aman-0402/LeetCode/tree/master/1143-longest-common-subsequence) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Aman-0402/LeetCode/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/Aman-0402/LeetCode/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Aman-0402/LeetCode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
@@ -205,6 +206,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0629-k-inverse-pairs-array](https://github.com/Aman-0402/LeetCode/tree/master/0629-k-inverse-pairs-array) |
 | [0877-stone-game](https://github.com/Aman-0402/LeetCode/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/Aman-0402/LeetCode/tree/master/1140-stone-game-ii) |
+| [1143-longest-common-subsequence](https://github.com/Aman-0402/LeetCode/tree/master/1143-longest-common-subsequence) |
 | [1406-stone-game-iii](https://github.com/Aman-0402/LeetCode/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/Aman-0402/LeetCode/tree/master/1510-stone-game-iv) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Aman-0402/LeetCode/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
@@ -386,4 +388,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1510-stone-game-iv](https://github.com/Aman-0402/LeetCode/tree/master/1510-stone-game-iv) |
+## Longest Common Subsequence
+|  |
+| ------- |
+| [1143-longest-common-subsequence](https://github.com/Aman-0402/LeetCode/tree/master/1143-longest-common-subsequence) |
 <!---LeetCode Topics End-->
