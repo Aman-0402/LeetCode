@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1470-shuffle-the-array](https://github.com/Aman-0402/LeetCode/tree/master/1470-shuffle-the-array) |
 | [1480-running-sum-of-1d-array](https://github.com/Aman-0402/LeetCode/tree/master/1480-running-sum-of-1d-array) |
 | [1512-number-of-good-pairs](https://github.com/Aman-0402/LeetCode/tree/master/1512-number-of-good-pairs) |
+| [1563-stone-game-v](https://github.com/Aman-0402/LeetCode/tree/master/1563-stone-game-v) |
 | [1672-richest-customer-wealth](https://github.com/Aman-0402/LeetCode/tree/master/1672-richest-customer-wealth) |
 | [1920-build-array-from-permutation](https://github.com/Aman-0402/LeetCode/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/Aman-0402/LeetCode/tree/master/1929-concatenation-of-array) |
@@ -147,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1406-stone-game-iii](https://github.com/Aman-0402/LeetCode/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/Aman-0402/LeetCode/tree/master/1510-stone-game-iv) |
 | [1512-number-of-good-pairs](https://github.com/Aman-0402/LeetCode/tree/master/1512-number-of-good-pairs) |
+| [1563-stone-game-v](https://github.com/Aman-0402/LeetCode/tree/master/1563-stone-game-v) |
 | [2029-stone-game-ix](https://github.com/Aman-0402/LeetCode/tree/master/2029-stone-game-ix) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Aman-0402/LeetCode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Aman-0402/LeetCode/tree/master/3345-smallest-divisible-digit-product-i) |
@@ -219,6 +221,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1143-longest-common-subsequence](https://github.com/Aman-0402/LeetCode/tree/master/1143-longest-common-subsequence) |
 | [1406-stone-game-iii](https://github.com/Aman-0402/LeetCode/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/Aman-0402/LeetCode/tree/master/1510-stone-game-iv) |
+| [1563-stone-game-v](https://github.com/Aman-0402/LeetCode/tree/master/1563-stone-game-v) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Aman-0402/LeetCode/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 ## Greedy
 |  |
@@ -361,6 +364,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1140-stone-game-ii](https://github.com/Aman-0402/LeetCode/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/Aman-0402/LeetCode/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/Aman-0402/LeetCode/tree/master/1510-stone-game-iv) |
+| [1563-stone-game-v](https://github.com/Aman-0402/LeetCode/tree/master/1563-stone-game-v) |
 | [2029-stone-game-ix](https://github.com/Aman-0402/LeetCode/tree/master/2029-stone-game-ix) |
 ## Minimax
 |  |
