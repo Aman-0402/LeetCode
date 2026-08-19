@@ -1,30 +1,21 @@
-from typing import List
-
 class Solution:
-    def maxNumberOfFamilies(
-        self,
-        n: int,
-        reservedSeats: List[List[int]]
-    ) -> int:
-
+    def maxNumberOfFamilies(self, n, reservedSeats):
         rows = {}
 
-        for row, col in reservedSeats:
-            if 2 <= col <= 11:
-                rows[row] = rows.get(row, 0) | (1 << (col - 2))
+        for r, c in reservedSeats:
+            if 2 <= c <= 11:
+                rows[r] = rows.get(r, 0) | (1 << (c - 2))
 
-        # Every completely empty row can fit 2 families.
-        answer = (n - len(rows)) * 2
+        ans = (n - len(rows)) * 2
 
         for mask in rows.values():
-
-            left = (mask & 0b00001111) == 0
-            middle = (mask & 0b00111100) == 0
-            right = (mask & 0b11110000) == 0
+            left = not (mask & 15)
+            middle = not (mask & 60)
+            right = not (mask & 240)
 
             if left and right:
-                answer += 2
+                ans += 2
             elif left or middle or right:
-                answer += 1
+                ans += 1
 
-        return answer
+        return ans
